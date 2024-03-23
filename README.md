@@ -1,4 +1,4 @@
-# WasteWise Protocol
+# WasteWise Protocol 
 
 WasteWise protocol is a green chain, sustainable environment-first (Waste to Wealth) blockchain-powered platform designed to incentivize recycling and responsible waste(plastic) disposal, contributing significantly to the creation of cleaner, more sustainable environments for all.
 
@@ -24,29 +24,34 @@ The WasteWise Protocol is a comprehensive blockchain-based solution comprising t
 https://wastewise-botanix.vercel.app/
 
 
-
-
-
-
-
-
-
-
-
-
 ## Demo Videos
 
 Project Overview:
 
-- https://youtu.be/_x5AMg
+    - https://youtu.be/FzDMxzf9ykU
 
 
-Practical work through / Technical Demo 
-  - https://youtu.be/oBCwbA
+Practical work through / Technical Demo:
+
+    - https://youtu.be/MUDMPaHNhpw
 
 ## Presentation Slide
 
 https://docs.google.com/presentation/d/1EOAEctrPbOzQAWS8ix-5ELT-IRrEsJCffrzMsqf7obQ/edit#slide=id.g29c05026432_4_15
+
+
+
+## Onchain Interactions / Transactions of the Wastewise contract on the Botanix Network
+
+- https://3xpl.com/botanix/address/0x34F66AfFD7c24faa4785E922d34ED992Ee5C7802 
+
+- Wastewise contract
+  ![08](./images/08.png)
+
+- wastewise contract
+  ![09](./images/09.png)
+
+
 
 ## UI Flows and Screens
 
@@ -57,19 +62,21 @@ https://docs.google.com/presentation/d/1EOAEctrPbOzQAWS8ix-5ELT-IRrEsJCffrzMsqf7
   ![05](./images/05.png)
 
 - Verifier Wallet
-  ![04](./images/04.png)
-
-- Recycler (User) Wallet
   ![02](./images/02.png)
 
-- LeaderBoard
+- Recycler (User) Wallet
   ![03](./images/03.png)
 
+- LeaderBoard
+  ![07](./images/07.png)
+
 - Admin Dashbaord
-  ![06](./images/06.png)
+  ![04](./images/04.png)
 
 - Wastewise MarketPlace
-  ![07](./images/07.png)
+  ![06](./images/06.png)
+
+
 
 ## Further Improvements
 
