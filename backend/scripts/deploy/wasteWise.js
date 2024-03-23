@@ -9,6 +9,10 @@ async function main() {
     "0x177bc81B32CA4cc7D062394B181A42195D6bB451",
   ];
 
+  // 0xbD357C7A00F91842633D41599f16425f583603B4
+  // 0x177bc81B32CA4cc7D062394B181A42195D6bB451
+  // 0x402d5785fC9D8B7f046FE46Dba03EF2FB0Ddc635
+
   // Correctly deploy the contract using getContractFactory and deploy
   const WasteWise = await hre.ethers.getContractFactory("WasteWise");
   const wasteWise = await WasteWise.deploy(rwasteWiseAddress, Admins);
