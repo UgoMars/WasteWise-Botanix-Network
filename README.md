@@ -9,7 +9,7 @@ The [WasteWise Protocol](https://wastewise-botanix.vercel.app/) is deployed and 
 The WasteWise Protocol is a comprehensive blockchain-based solution comprising three core contracts: `WasteWise`, `RwasteWise`, and `MarketPlace`. This integrated system is designed to promote environmental sustainability by rewarding users for recycling efforts through the issuance of receipt tokens (RWISE) and enabling the trade of items in a marketplace.
 
 
-## Contract Addresses deployed and Verified on Bitfinity network (testnet)
+## Contract Addresses deployed on Botanix network (testnet)
 
 - wasteWise Receipt Token Address:
   - 0x1270Ae31d234C0130D965924d75fB7294706CC79
