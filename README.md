@@ -27,13 +27,11 @@ https://wastewise-botanix.vercel.app/
 ## Demo Videos
 
 Project Overview:
-
-    - https://youtu.be/FzDMxzf9ykU
+- https://youtu.be/FzDMxzf9ykU
 
 
 Practical work through / Technical Demo:
-
-    - https://youtu.be/MUDMPaHNhpw
+- https://youtu.be/MUDMPaHNhpw 
 
 ## Presentation Slide
 
@@ -43,7 +41,8 @@ https://docs.google.com/presentation/d/1EOAEctrPbOzQAWS8ix-5ELT-IRrEsJCffrzMsqf7
 
 ## Onchain Interactions / Transactions of the Wastewise contract on the Botanix Network
 
-- https://3xpl.com/botanix/address/0x34F66AfFD7c24faa4785E922d34ED992Ee5C7802 
+- Explorer Url:
+    - https://3xpl.com/botanix/address/0x34F66AfFD7c24faa4785E922d34ED992Ee5C7802 
 
 - Wastewise contract
   ![08](./images/08.png)
